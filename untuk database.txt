@@ -1,0 +1,25 @@
+CREATE DATABASE test_program;
+
+USE test_program;
+
+CREATE TABLE kategori (
+    id_kategori INT AUTO_INCREMENT PRIMARY KEY,
+    nama_kategori VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE status (
+    id_status INT AUTO_INCREMENT PRIMARY KEY,
+    nama_status VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE produk (
+    id_produk INT AUTO_INCREMENT PRIMARY KEY,
+    nama_produk VARCHAR(255) NOT NULL,
+    harga INT NOT NULL,
+    id_kategori INT,
+    id_status INT,
+    FOREIGN KEY (id_kategori) REFERENCES kategori(id_kategori),
+    FOREIGN KEY (id_status) REFERENCES status(id_status)
+);
+
+INSERT INTO status (nama_status) VALUES ('bisa dijual'), ('tidak bisa dijual');
