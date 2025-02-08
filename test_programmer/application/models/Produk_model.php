@@ -35,10 +35,6 @@ class Produk_model extends CI_Model {
         }
     }
     
-    public function get_kategori() {
-        return $this->db->get('kategori')->result();
-    }
-
     public function get_kategori_by_name($nama_kategori) {
         return $this->db->get_where('kategori', ['nama_kategori' => $nama_kategori])->row();
     }
