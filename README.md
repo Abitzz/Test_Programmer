@@ -30,5 +30,9 @@ Project ini merupakan web berbasis CodeIgniter3 yang dibuat untuk mengelola data
 
 ![image](https://github.com/user-attachments/assets/9ea8c241-31b5-4287-8750-38f4a4b85126)
 
+- setelah data telah dimasukkan ke dalam database, masukkan link http://localhost/test_programmer/produk/ .project web telah dapat digunakan. ini adalah tampilan halaman utama.
+
+![image](https://github.com/user-attachments/assets/94cc78f3-b369-460c-b73a-ad63f290a870)
+
 
 
