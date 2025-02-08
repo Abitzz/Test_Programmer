@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/c4f4eb75-675c-4907-8867-8711bc79f245
 
 https://github.com/user-attachments/assets/5ff4d725-3b59-4e8c-b0d7-819a18a01793
 
-
+## Informasi dan Penjelasan lebih lanjut dapat membuka file program.pdf
 
 
 
