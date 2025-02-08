@@ -34,5 +34,23 @@ Project ini merupakan web berbasis CodeIgniter3 yang dibuat untuk mengelola data
 
 ![image](https://github.com/user-attachments/assets/94cc78f3-b369-460c-b73a-ad63f290a870)
 
-##
+
+## Dokumentasi
+Dokumentasi Sederhana terkait project
+- Proses pembuatan database
+
+https://github.com/user-attachments/assets/9dafb770-9f95-4f08-80f1-46a0695d11ee
+
+- Proses pengambilan Data API
+
+https://github.com/user-attachments/assets/c4f4eb75-675c-4907-8867-8711bc79f245
+
+- Tampilan Halaman Web serta semua fungsi
+
+https://github.com/user-attachments/assets/5ff4d725-3b59-4e8c-b0d7-819a18a01793
+
+
+
+
+
 
